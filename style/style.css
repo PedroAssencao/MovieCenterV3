@@ -80,3 +80,8 @@ overflow-x: hidden;
 .cards:hover .card-info {
     opacity: 1;
 }
+
+.slick-slide {
+    height: auto;
+    margin: 0 10px;
+}
